@@ -1,0 +1,10 @@
+.boxes-wrapper{
+  display: flex;
+  min-height: 100px;
+  margin: 10px 0;
+}
+
+.box{
+  margin: 0 5px;
+  border-radius: 10px;
+}
